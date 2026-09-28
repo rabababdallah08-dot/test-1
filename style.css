@@ -1,0 +1,118 @@
+
+body {
+    background-color: peachpuff;
+    font-family: Helvetica, serif;
+    margin: 20px;
+    padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: gray;
+    font-family: 'Times New Roman', serif;
+    margin: 20px 0;
+    padding: 10px;
+}
+
+h2 {
+    font-family: 'Times New Roman', serif;
+    margin: 15px 0;
+    padding: 8px;
+}
+
+h3 {
+    font-style: italic;
+    margin: 10px 0;
+    padding: 5px;
+}
+
+nav {
+    margin: 20px 0;
+    padding: 5px;
+}
+
+nav ul {
+    background-color: sandybrown;
+    border-style: solid;
+    border-color: seashell;
+    border-width: 2px;
+
+    margin: 10px;
+    padding: 15px;
+
+    border-radius: 10px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    padding: 5px;
+
+    color: papayawhip;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: aqua;
+
+    padding: 5px;
+    margin: 5px;
+}
+
+article {
+    margin: 25px 10px;
+    padding: 20px;
+
+    border: 2px solid seashell;
+    border-radius: 15px;
+}
+
+main {
+    margin: 25px 10px;
+    padding: 20px;
+
+    border: 2px solid seashell;
+    border-radius: 15px;
+}
+
+p {
+    margin: 15px 5px;
+    padding: 10px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+
+    margin: 15px;
+    padding: 5px;
+
+    border-radius: 30px;
+}
+
+table {
+    margin: 20px 10px;
+    padding: 5px;
+
+    border: 1px solid honeydew;
+    border-collapse: collapse;
+}
+
+tr {
+    background-color: palegoldenrod;
+}
+
+th,
+td {
+    vertical-align: top;
+
+    padding: 10px;
+    margin: 5px;
+
+    text-align: left;
+    border: 1px solid honeydew;
+}
